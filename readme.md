@@ -1,0 +1,1 @@
+Repository for algorithm that is supposed to solve the Eternity 2 puzzle
